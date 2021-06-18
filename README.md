@@ -1,12 +1,18 @@
 # Çocuklar için Güvenli İnternet
 OKUL ÖNCESİ DÖNEMDE İNTERNET VE BİLGİSAYAR KULLANIMI VE EVEBEYNLERE DÜŞEN SORUMLULUKLAR
 Berkay YILDIRIM
-Giriş
+
+<br>
+<h2>Giriş</h2>
 Günümüzde hızlı gelişen teknolojilere ve getirilerine bağlı olarak bilgisayar ve internet kullanımı hızla artış gösteriyor. TÜİK Hanehalkı Bilişim Teknolojileri Kullanım Araştırması[1]’na göre evde internet erişim imkanı %90.7’ye ulaştı. İnternetin bu denli yaygınlaşması birçok faydayı beraberinde getirdiği gibi, bilinçli ve kontrollü kullanılmadığı sürece sakıncaları da beraberinde getiriyor. Teknoloji ile doğar doğmaz tanışan, bilgisayar teknolojilerini anadili gibi kavrayıp kullanan dijital yerliler ile teknolojiyi hayatlarına sonradan dahil eden ve teknolojiye ayak uydurmaya çalışan dijital göçmenler arasındaki kuşak farklılığı evebeyn-çocuk ilişkisinde de ortaya çıkıyor. Sağlıklı bilgisayar ve internet kullanımı için evebeynlerin, çocuklarının teknolojiyi nasıl kullanmaları gerektiğini bilmesi, anlaması ve aktarması gerekiyor. 
-	Anahtar Kelimeler: Güvenli İnternet Hizmeti, okul öncesi  
-Okul Öncesi Dönemle İlgili Temel Bilgiler
+	<br>Anahtar Kelimeler: Güvenli İnternet Hizmeti, okul öncesi  
+	
+<br>
+<h2>Okul Öncesi Dönemle İlgili Temel Bilgiler</h2>
 Okul öncesi dönem, çocukların gelişimlerinin en hızlı olduğu dönemdir. Bu dönemde çocuklar, her şeyi öğrenmek istedikleri gibi sürekli denemeye de meraklı ve isteklidirler. Bilişsel ve dil gelişiminin çok hızlı olduğu bu dönemde uygun uyaranlar, çocuk gelişiminin desteklenmesinde önemli bir yere sahiptir. Çevrelerini ve evebeynlerini taklit eder ve örnek alırlar.[2] Neyi, ne zaman, ne kadar yapacaklarını evebeynlere bakarak örnek alan çocuklara karşı teknoloji kullanımı konusunda bilinçli yaklaşılmalıdır[3]. Amerikan Psikiatri Derneği (APA) 0-2 yaş grubu çocukların teknolojik aletlerden uzak durmasını, 3-5 yaş arasındaki çocukların günde 1 saat kullanım ile sınırlandırılmasını, 6-18 yaş arasında ise günde 2 saat ile sınırlandırılmasını ve odalarında bu teknolojik aletlerin bulunmamasını öneriyor.[3]
-Bilgisayarın ve İnternetin Faydaları
+
+<br>
+<h2>Bilgisayarın ve İnternetin Faydaları</h2>
 Temelde bilgisayar kullanımı, öğrenilenlerin pekiştirilmesi, problem çözme yeteneğinin gelişmesi, ilgi alanları edinilmesi, hızlı karar verebilme, strateji geliştirme, analiz yapabilme, el-göz-zihin koordinasyonunu hızlandırma, kendini ifade edebilme özgürlüğü, üreticilik, yaratıcılık, tasarım yapabilme gibi konularda gelişime katkı sağlar. 
 Bilgisayarın ve İnternetin Zararları ve İnternetteki Tehlikeler
 Bilinçli kullanılmadığı takdirde bilgisayar ve internet pek çok olumsuzluğu da beraberinde getiriyor. Çocuklar keşfetme ve merak dürtülerinin de etkisiyle uygunsuz içeriklerle karşılaşabilirler.  İnternetteki bu olumsuzluklarla karşılaşıldığında internet kullanımını yasaklamak yerine olumsuz durumları engellemek için kontrol mekanizmalarını hayata geçirmeli, olumsuzluklara yol açabilen durumlarla alakalı bilgi sahibi olunmalıdır. Çocuklar kendilerini rahatsız eden, tehdit altında hissettiren içeriklerle karşılaştıklarında ailelerine iletmelilerdir. Bu durumda soğukkanlı olmalısınız. Eğer çok tepki gösterirseniz bu durum tekrarlandığında sizinle paylaşmak istemeyeceklerdir.  
@@ -42,7 +48,10 @@ YouTube Kısıtlı Mod
 	1-Sağ en üstte bulunan profil fotoğrafı ikonuna tıklayın.
 	2-Açılan menüde en aşağıdaki seçenek olan “Kısıtlı Mod:Kapalı” seçeneğine tıklayın. 
 	3-“Kısıtlı Modu Etkinleştir” yazısının sağındaki ikona tıklayarak etkinleştirin.
-Google SafeSearch
+	
+
+<br>
+<h2>Google SafeSearch</h2>
 Güvenli Arama ile ilgili detaylı bilgi için, https://support.google.com/websearch/answer/510?co=GENIE.Platform%3DDesktop&hl=tr adresini ziyaret edebilirsiniz.
 1-iPad ve iPhone için;
 	Google Uygulaması
@@ -51,6 +60,7 @@ Google > Profil Resmi > Ayarlar > Uygunsuz Sonuçları Gizle > “Güvenli Arama
 Arama Ayarları > Güvenli Arama Filtreleri > Müstehcen sonuçlara filtre uygula > Kaydet
 	Tablet Tarayıcısı
 Arama Ayarları > Güvenli Arama Filtreleri > Müstehcen sonuçlara filtre uygula > Kaydet
+	<br>
 2-Android için;
 	Google Uygulaması
 		Google > Ayarlar > Genel > Güvenli Arama 
@@ -60,6 +70,7 @@ Arama Ayarları > Güvenli Arama Filtreleri > Müstehcen sonuçlara filtre uygul
 	Arama Ayarları > Güvenli Arama Filtreleri > Müstehcen sonuçlara filtre uygula > Kaydet
 3-Bilgisayar için;
 	https://www.google.com/preferences adresine gidin. En üstte yer alan Güvenli arama filtreleri seçeneğinde yer alan “Güvenli Arama’yı etkinleştir” kutucuğunu işaretleyin. Sayfanın altındaki “Kaydet” butonuna tıklayın.
+	<br>
 Google Family Link(Android)
 Cihazınızdan denetimleri ve ekran süresi sınırlarını uzaktan ayarlayabilirsiniz. Başlamak için Google Play Store’a girerek Google Family Link'i arayın. (Dikkat!) Bu uygulamayı kullanırken çocuğunuzun üzerinde baskıcı olmamaya, belirli bir yaşa ulaştıktan sonra kendi tercihlerinin oluşmasına ve kontrolü gevşetmeye özen göstermenizi umarım.
 Dikkat etmeniz gereken bir başka husus ise, belirli bir yaşın altında oturum açmış kullanıcılar için bu uygulama varsayılan olarak açık olacaktır. Yalnızca evebeynler güvenli arama ayarını kapatabileceği için cihazın varsayılan hesabını kendi hesabınız yapmalısınız. Teknolojiye uzaksanız uygulama kurulumu ve ayarları için mutlaka bilgili bir kişiden yardım istemelisiniz.
@@ -92,18 +103,18 @@ Sosyal Ağ Gizlilik Ayarları
 
 
 
-
+<br><br>
 KAYNAKLAR
-[1] - https://data.tuik.gov.tr/Bulten/Index?p=Hanehalki-Bilisim-Teknolojileri-(BT)-Kullanim-Arastirmasi-2020-33679
-[2] - http://web.firat.edu.tr/icits2011/papers/27633.pdf
-[3] - https://dergipark.org.tr/tr/download/article-file/371866
-[4] - https://orgm.meb.gov.tr/meb_iys_dosyalar/2020_11/13161014_OKULOYNCESIY_VELIY.pdf
-[5] - https://mskmerc.wordpress.com/2016/10/10/okul-oncesi-donemde-internet-kullanimi/
-[6] - https://www.mcafee.com/tr-tr/parental-controls.html
-[7] - https://support.google.com/websearch/answer/510?co=GENIE.Platform%3DDesktop&hl=tr
-[8]- https://www.turktelekomguvenlik.com/guvenlik/bireysel/5-7-yas-arasi-cocuklar-icin-tavsiyeler
-[9] - https://www.siberay.com/ebeveyn-kontrolu
-[10] - http://centralhospital.com/Haberler/cocuklarda-internet-kullanimina-dikkat!/
-[11] - https://orgm.meb.gov.tr/meb_iys_dosyalar/2019_12/25154235_GUVENLY_YNTERNET_KULANIMI.pdf
+[1] - https://data.tuik.gov.tr/Bulten/Index?p=Hanehalki-Bilisim-Teknolojileri-(BT)-Kullanim-Arastirmasi-2020-33679 <br>
+[2] - http://web.firat.edu.tr/icits2011/papers/27633.pdf <br> 
+[3] - https://dergipark.org.tr/tr/download/article-file/371866 <br>
+[4] - https://orgm.meb.gov.tr/meb_iys_dosyalar/2020_11/13161014_OKULOYNCESIY_VELIY.pdf <br>
+[5] - https://mskmerc.wordpress.com/2016/10/10/okul-oncesi-donemde-internet-kullanimi/ <br>
+[6] - https://www.mcafee.com/tr-tr/parental-controls.html <br>
+[7] - https://support.google.com/websearch/answer/510?co=GENIE.Platform%3DDesktop&hl=tr <br>
+[8]- https://www.turktelekomguvenlik.com/guvenlik/bireysel/5-7-yas-arasi-cocuklar-icin-tavsiyeler <br>
+[9] - https://www.siberay.com/ebeveyn-kontrolu <br>
+[10] - http://centralhospital.com/Haberler/cocuklarda-internet-kullanimina-dikkat!/ <br>
+[11] - https://orgm.meb.gov.tr/meb_iys_dosyalar/2019_12/25154235_GUVENLY_YNTERNET_KULANIMI.pdf <br>
 
 
