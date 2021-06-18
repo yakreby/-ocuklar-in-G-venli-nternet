@@ -1,4 +1,5 @@
 # Çocuklar için Güvenli İnternet
+<i>Bu Proje, Marmara Üniversitesi Bilgisayar Programcılığı Bölümü'nde Topluma Hizmet Uygulamaları dersi kapsamında geliştirilmiştir.</i><br>
 <h1>OKUL ÖNCESİ DÖNEMDE İNTERNET VE BİLGİSAYAR KULLANIMI VE EVEBEYNLERE DÜŞEN SORUMLULUKLAR</h1>
 <h3>Berkay YILDIRIM</h3>
 
